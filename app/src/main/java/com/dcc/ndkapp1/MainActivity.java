@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
     Button btn_play;
     private int test1Int = 0;
     private int test1Float = 0;
+    private int test2Int = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
