@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
 
     private int test1V4 = 0;
 
+    private int test1V5 = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
