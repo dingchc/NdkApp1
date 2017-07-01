@@ -295,7 +295,7 @@ Java_com_dcc_ndkapp1_MainActivity_render(JNIEnv *env, jobject instance, jstring 
                                                  WINDOW_FORMAT_RGBA_8888);
                 ANativeWindow_lock(pWindow, &out_buffer, NULL);
 
-                LOGE("input=%d", 4);
+                LOGE("*input=%d", 4);
                 //2、fix buffer
                 LOGE("input=%d", 5);
                 //初始化缓冲区
