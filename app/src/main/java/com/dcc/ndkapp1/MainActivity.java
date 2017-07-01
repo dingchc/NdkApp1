@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
     SurfaceView surfaceView;
     Button btn_play;
+    private int test1Int = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
