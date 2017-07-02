@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
     // do some exchange 1
     // do some exchange 3
+    // do some exchange 4
     SurfaceView surfaceView;
     Button btn_play;
     private int test1Int = 0;
