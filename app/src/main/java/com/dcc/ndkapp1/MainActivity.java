@@ -24,6 +24,7 @@ import java.io.File;
 
 public class MainActivity extends AppCompatActivity {
 
+    // do some exchange 1
     SurfaceView surfaceView;
     Button btn_play;
     private int test1Int = 0;
@@ -36,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     private int test1V5 = 0;
 
+    // do some exchange 2
     
 
     @Override
